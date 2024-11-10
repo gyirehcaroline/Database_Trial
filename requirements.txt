@@ -5,4 +5,4 @@ requests
 numpy
 pandas
 scikit-learn
-pickle5
+pickle
