@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo
+requests
+numpy
+pandas
+scikit-learn
+pickle5
