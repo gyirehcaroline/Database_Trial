@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from models import Customer, Product, Order, Shipment
-from database import customers_collection, products_collection, orders_collection, shipments_collection
+from data import customers_collection, products_collection, orders_collection, shipments_collection
 from bson import ObjectId
 from pymongo import DESCENDING
 
